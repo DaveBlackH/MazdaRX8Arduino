@@ -20,6 +20,9 @@
 //    unless you happen to have the dodgy chinese controller I have.
 //
 //    Again use AT YOUR OWN RISK
+//
+//    DONATE HERE, Anything helps towards the next project (Leaf RX8 Conversion). 
+//    https://www.paypal.me/DBlackhurst
 
 #include <Arduino.h>
 #include <mcp_can.h>
